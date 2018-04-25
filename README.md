@@ -33,7 +33,7 @@ Changes DayNightModeSwitcher state with smooth animation
 #### Change state without animation
 Changes DayNightModeSwitcher state without animation
 - `dayNightModeSwitcher.set(to: .day, animated: false)`
-or
+- or
 - `dayNightModeSwitcher.isDay = true`
 
 #### Falling star timing intervals
