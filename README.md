@@ -1,6 +1,9 @@
 # DayNightModeSwitcher
 DayNightModeSwitcher is a switcher for iOS. This switcher is made with beautiful and smooth animations for you. Instead of states `true` and `false` like in original iOS UISwitcher, there are states `TypeOfSwitcher.day` and `TypeOfSwitcher.night`. But as well as original UISwitcher, it can take in some types of gestures.
+
+
 ![alt tag](https://github.com/madoffox/DayNightModeSwitcher/blob/master/ScreenRecording_04-25-2018%2018:20.gif)
+
 ## Usage
 
 Setting up is easy. First, you need to initialize a DayNightModeSwitcher in your view
